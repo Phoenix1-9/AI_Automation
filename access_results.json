@@ -1,0 +1,18 @@
+[
+    {
+        "provider": "gemini",
+        "status_code": 200,
+        "response_time_sec": 0.977
+    },
+    {
+        "provider": "groq",
+        "status_code": null,
+        "response_time_sec": null,
+        "error": "API key not set"
+    },
+    {
+        "provider": "openrouter",
+        "status_code": 200,
+        "response_time_sec": 1.709
+    }
+]
